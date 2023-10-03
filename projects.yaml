@@ -60,6 +60,7 @@ categories:
     title: "Django Utilities"
 
 labels:
+
   - label: "flask"
     image: "https://flask.palletsprojects.com/en/1.1.x/_static/flask-icon.png"
     description: "Flask related project"
@@ -80,6 +81,10 @@ labels:
     description: "GraphQL related project"
 
 projects:
+  - name: Taipy
+    github_id: Avaiga/taipy
+    category: web-ui
+    pypi_id: taipy
   - name: flask-admin
     github_id: flask-admin/flask-admin
     category: admin-ui
